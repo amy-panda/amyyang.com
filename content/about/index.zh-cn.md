@@ -1,7 +1,7 @@
 ---
 title: "关于"
 date: 2026-01-04T22:36:00+11:00
-draft: true
+draft: false
 description: "关于"
 images: ["/Apple-Devices-Preview.png"]
 

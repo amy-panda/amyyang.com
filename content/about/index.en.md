@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2026-01-04T22:30:00+11:00
-draft: true
+draft: false
 description: "About"
 images: ["/Apple-Devices-Preview.png"]
 
