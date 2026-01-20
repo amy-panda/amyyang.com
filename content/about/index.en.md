@@ -37,7 +37,7 @@ Feel free to reach out:
 
 - <i class="fab fa-github"></i>&nbsp; [GitHub](https://github.com/amy-panda)
 - <i class="fab fa-linkedin"></i>&nbsp; [LinkedIn](https://www.linkedin.com/in/amyyang-syd/)
-- <i class="fab fa-x-twitter"></i>&nbsp; [X / Twitter](https://x.com/amyyangsyd)
+- <i class="fab fa-x-twitter"></i>&nbsp; [X](https://x.com/amyyangsyd)
 - <i class="fab fa-medium"></i>&nbsp; [Medium](https://medium.com/@amyyang-syd)
 - <i class="far fa-envelope"></i>&nbsp; [Email](mailto:amyyangsyd2014@gmail.com)
 
